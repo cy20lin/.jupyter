@@ -1,0 +1,35 @@
+{
+  "load_extensions": {
+    "latex_envs/latex_envs": true,
+    "select_keymap/main": false,
+    "vim_binding/vim_binding": true,
+    "livemdpreview/livemdpreview": true,
+    "table_beautifier/main": false,
+    "snippets_menu/main": false,
+    "codefolding/main": true,
+    "varInspector/main": true,
+    "nbextensions_configurator/config_menu/main": true,
+    "autosavetime/main": true
+  },
+  "livemdpreview": {
+    "show_side_by_side": true
+  },
+  "latex_envs": {
+    "autocomplete": false
+  },
+  "snippets": {
+    "include_submenu": {
+      "python": false,
+      "h5py": false,
+      "numba": false,
+      "astropy": false,
+      "pandas": false,
+      "sympy": false,
+      "matplotlib": false,
+      "scipy": false,
+      "numpy": false
+    },
+    "top_level_submenu_goes_left": false
+  },
+  "autosavetime_set_starting_interval": false
+}
